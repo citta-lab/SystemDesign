@@ -40,7 +40,7 @@ Application which crawlers the internet for data to give the best results to use
 
 ## 5. Architecture 
 
-
+![crawler](https://github.com/citta-lab/system-design/blob/0c015b679a2a52ae0b61aafe9ad270ebfada9cb6/architecture/blob/web-crawler.png)
 
 
 
