@@ -19,7 +19,7 @@
 
 # Memcache vs Redis 
 |       | Memcache | Redis |
-| ----------- | ----------- |
+| ----------- | ----------- |----------- |
 | Core      | Multi Core  | Single Core  |
 | Key/Value pair size      | 1MB  | 512MB  |
 | Replication      | No  | Yes  |
