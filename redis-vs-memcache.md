@@ -34,6 +34,7 @@
 - Session Store ( manage session data such as user profiles, credentials, session state, and user-specific personalization )
 - Media Streaming ( store users metadata about users' profiles and viewing histories, authentication information/tokens for millions of users, and manifest files to enable CDNs to stream videos to millions of mobile and desktop users at a time )
 - Leader Board (Redis Sorted Set data structure, which provides uniqueness of elements while maintaining the list sorted by users' scores )
+- News feed so the newses are added in cronological order when we use sorted list data structure in Redis.
 
 ## Memcache 
 - Caching ( same as redis cache )
